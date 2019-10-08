@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/bin/Debug/netcoreapp2.1/Homework_Assignment_2.deps.json
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/bin/Debug/netcoreapp2.1/Homework_Assignment_2.runtimeconfig.json
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/bin/Debug/netcoreapp2.1/Homework_Assignment_2.runtimeconfig.dev.json
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/bin/Debug/netcoreapp2.1/Homework_Assignment_2.dll
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/bin/Debug/netcoreapp2.1/Homework_Assignment_2.pdb
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/obj/Debug/netcoreapp2.1/Homework_Assignment_2.csprojAssemblyReference.cache
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/obj/Debug/netcoreapp2.1/Homework_Assignment_2.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/obj/Debug/netcoreapp2.1/Homework_Assignment_2.AssemblyInfo.cs
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/obj/Debug/netcoreapp2.1/Homework_Assignment_2.dll
+/Users/Britta/Desktop/Homework_Assignment_2/Homework_Assignment_2/obj/Debug/netcoreapp2.1/Homework_Assignment_2.pdb
